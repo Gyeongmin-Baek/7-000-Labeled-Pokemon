@@ -5,7 +5,7 @@
 ## Project
 - 이미지를 분류하기 전 Augmentation, 불필요한 확장자를 처리하였습니다.
 
-- 기본적인 VGG, GoogLeNet, RESNET 구현하였을 뿐 아니라 RESNET 50에 대해 전이학습(Transfer Learning)을 수행하였습니다.
+- VGG, GoogLeNet, RESNET을 구현하였을 뿐 아니라 RESNET 50에 대해 전이학습(Transfer Learning)을 수행하였습니다.
 
 - 그 외 모델 Save/Load 및 Seed를 조정하였습니다.
 
