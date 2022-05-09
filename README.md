@@ -12,3 +12,4 @@
 ### 참고 사이트
 - https://www.youtube.com/watch?v=ACmuBbuXn20
 - https://deep-learning-study.tistory.com/534
+- http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920753 (파이토치 딥러닝 프로젝트 모음집)
